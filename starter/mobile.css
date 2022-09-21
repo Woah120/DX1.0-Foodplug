@@ -1,0 +1,92 @@
+@media screen and (max-width:841px) {
+    .nav-desktop {
+        display: none;
+    }
+    .nav-mobile {
+        display: flex;
+    }/* <!-- <!== Headersection  ends here==> --> */
+/* <!-- <!== Header banner section starts here==> --> */
+.banner-content-content {
+    padding-top: 95px;
+}
+.banner-text-container{
+    width: 100%;
+}
+/* <!-- <!== Header banner section starts here==> --> */
+
+
+
+/* <!-- <!== about us section section starts here==> --> */
+.about-us-container {
+    justify-content: center;
+}
+.about-us-cards-img {
+
+    min-width: 350px;
+    height: 285px;
+}
+
+.about-us-cards-text {
+    width: 90%;
+    margin: 20px 0;
+}
+
+/* <!-- <!== about us section section ends here==> --> */
+
+/* <!-- <!== Explore foods section starts here==> --> */
+.food-txt-container{
+    margin: 20px 0;
+}
+/* <!-- <!== Explore foods section ends here==> --> */
+
+
+/* <!-- <!== faq section starts here==> --> */
+.faq-item {
+    min-width: 100%;
+    padding: 0 10px;
+}
+/* <!-- <!== faq section ends here==> --> */
+
+
+
+
+/* <!-- <!== parallax section starts here==> --> */
+.parallax {
+    flex-direction: column;
+    padding: 0 25px;
+    text-align: center;
+}
+/* <!-- <!== parallax section ends here==> --> */
+
+
+/* <!-- <!== cta section ends here==> --> */
+.parallax{
+    text-align: center;
+    padding: 0 5px;
+    flex-direction: column;
+}
+
+/* <!-- <!== cta section ends here==> --> */
+
+
+/* <!-- <!== footer section ends here==> --> */
+footer {
+    flex-direction: column;
+
+}
+.footer-icon-container{
+    margin: 15px 0;
+    
+}
+
+footer p{
+    text-align: center;
+}
+/* <!-- <!== footer section ends here==> --> */
+}
+
+
+
+
+
+
